@@ -1,0 +1,11 @@
+# folders
+.ipynb_checkpoints/
+__pycache__/
+__MACOSX/
+data/
+source_sklearn/
+
+
+# files
+data.zip
+Containment_Exercise.ipynb
